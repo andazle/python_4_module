@@ -1,0 +1,72 @@
+Маколей Калкин;Комедия;https://www.kinopoisk.ru/film/8124/;Один Дома
+Маколей Калкин;Семейный;https://www.kinopoisk.ru/film/8124/;Один Дома
+Маколей Калкин;Комедия;https://www.kinopoisk.ru/film/5928/;Один Дома 2 Затерянный в Нью-Йорке
+Маколей Калкин;Семейный;https://www.kinopoisk.ru/film/5928/;Один Дома 2 Затерянный в Нью-Йорке
+Маколей Калкин;Приключение;https://www.kinopoisk.ru/film/5928/;Один Дома 2: Затерянный в Нью-Йорке
+Джо Пеши;Комедия;https://www.kinopoisk.ru/film/8124/;Один Дома
+Джо Пеши;Семейный;https://www.kinopoisk.ru/film/8124/;Один Дома
+Джо Пеши;Комедия;https://www.kinopoisk.ru/film/5928/;Один Дома 2 Затерянный в Нью-Йорке
+Джо Пеши;Семейный;https://www.kinopoisk.ru/film/5928/;Один Дома 2 Затерянный в Нью-Йорке
+Джо Пеши;Приключение;https://www.kinopoisk.ru/film/5928/;Один Дома 2: Затерянный в Нью-Йорке
+Дэниел Стерн;Комедия;https://www.kinopoisk.ru/film/8124/;Один Дома
+Дэниел Стерн;Семейный;https://www.kinopoisk.ru/film/8124/;Один Дома
+Дэниел Стерн;Комедия;https://www.kinopoisk.ru/film/5928/;Один Дома 2 Затерянный в Нью-Йорке
+Дэниел Стерн;Семейный;https://www.kinopoisk.ru/film/5928/;Один Дома 2 Затерянный в Нью-Йорке
+Дэниел Стерн;Приключение;https://www.kinopoisk.ru/film/5928/;Один Дома 2: Затерянный в Нью-Йорке
+Джеймс Стюарт;Фэнтези;https://www.kinopoisk.ru/film/348/;Эта замечательная жизнь
+Джеймс Стюарт;Драма;https://www.kinopoisk.ru/film/348/;Эта замечательная жизнь
+Джеймс Стюарт;Семейный;https://www.kinopoisk.ru/film/348/;Эта замечательная жизнь
+Донна Рид;Фэнтези;https://www.kinopoisk.ru/film/348/;Эта замечательная жизнь
+Донна Рид;Драма;https://www.kinopoisk.ru/film/348/;Эта замечательная жизнь
+Донна Рид;Семейный;https://www.kinopoisk.ru/film/348/;Эта замечательная жизнь
+Алекс Линц;Боевик;https://www.kinopoisk.ru/film/20789/;Один дома 3
+Алекс Линц;Комедия;https://www.kinopoisk.ru/film/20789/;Один дома 3
+Алекс Линц;Криминал;https://www.kinopoisk.ru/film/20789/;Один дома 3
+Алекс Линц;Семейный;https://www.kinopoisk.ru/film/20789/;Один дома 3
+Скарлетт Йоханссон;Боевик;https://www.kinopoisk.ru/film/20789/;Один дома 3
+Скарлетт Йоханссон;Комедия;https://www.kinopoisk.ru/film/20789/;Один дома 3
+Скарлетт Йоханссон;Криминал;https://www.kinopoisk.ru/film/20789/;Один дома 3
+Скарлетт Йоханссон;Семейный;https://www.kinopoisk.ru/film/20789/;Один дома 3
+Майк Вейнберг;Семейный;https://www.kinopoisk.ru/film/81576/;Один дома 4
+Майк Вейнберг;Криминал;https://www.kinopoisk.ru/film/81576/;Один дома 4
+Майк Вейнберг;Комедия;https://www.kinopoisk.ru/film/81576/;Один дома 4
+Кристиан Мартин;Семейный;https://www.kinopoisk.ru/film/673340/;Один дома 5 Праздничное ограбление
+Кристиан Мартин;Криминал;https://www.kinopoisk.ru/film/673340/;Один дома 5 Праздничное ограбление
+Кристиан Мартин;Комедия;https://www.kinopoisk.ru/film/673340/;Один дома 5 Праздничное ограбление
+Джонни Галэки;Комедия;https://www.kinopoisk.ru/film/10074/;Рождественские каникулы
+Джонни Галэки;Семейный;https://www.kinopoisk.ru/film/10074/;Рождественские каникулы
+Чеви Чейз;Комедия;https://www.kinopoisk.ru/film/10074/;Рождественские каникулы
+Чеви Чейз;Семейный;https://www.kinopoisk.ru/film/10074/;Рождественские каникулы
+Беверли Д’Анджело;Комедия;https://www.kinopoisk.ru/film/10074/;Рождественские каникулы
+Беверли Д’Анджело;Семейный;https://www.kinopoisk.ru/film/10074/;Рождественские каникулы
+Джульетт Льюис;Комедия;https://www.kinopoisk.ru/film/10074/;Рождественские каникулы
+Джульетт Льюис;Семейный;https://www.kinopoisk.ru/film/10074/;Рождественские каникулы
+Рэнди Куэйд;Комедия;https://www.kinopoisk.ru/film/10074/;Рождественские каникулы
+Рэнди Куэйд;Семейный;https://www.kinopoisk.ru/film/10074/;Рождественские каникулы
+Курт Рассел;Комедия;https://www.kinopoisk.ru/film/772380/;Рождественские хроники
+Курт Рассел;Приключение;https://www.kinopoisk.ru/film/772380/;Рождественские хроники
+Курт Рассел;Фэнтези;https://www.kinopoisk.ru/film/772380/;Рождественские хроники
+Курт Рассел;Семейный;https://www.kinopoisk.ru/film/772380/;Рождественские хроники
+Дэрби Кэмп;Комедия;https://www.kinopoisk.ru/film/10074/;Рождественские каникулы
+Дэрби Кэмп;Семейный;https://www.kinopoisk.ru/film/10074/;Рождественские каникулы
+Джейсон Шварцман;Mультфильм;https://www.kinopoisk.ru/film/957887/;Клаус
+Джейсон Шварцман;Приключение;https://www.kinopoisk.ru/film/957887/;Клаус
+Джейсон Шварцман;Семейный;https://www.kinopoisk.ru/film/957887/;Клаус
+Джейсон Шварцман;Комедия;https://www.kinopoisk.ru/film/957887/;Клаус
+Джей Симмонс;Mультфильм;https://www.kinopoisk.ru/film/957887/;Клаус
+Джей Симмонс;Приключение;https://www.kinopoisk.ru/film/957887/;Клаус
+Джей Симмонс;Семейный;https://www.kinopoisk.ru/film/957887/;Клаус
+Джей Симмонс;Комедия;https://www.kinopoisk.ru/film/957887/;Клаус
+Джоан Кьюсак;Mультфильм;https://www.kinopoisk.ru/film/957887/;Клаус
+Джоан Кьюсак;Приключение;https://www.kinopoisk.ru/film/957887/;Клаус
+Джоан Кьюсак;Семейный;https://www.kinopoisk.ru/film/957887/;Клаус
+Джоан Кьюсак;Комедия;https://www.kinopoisk.ru/film/957887/;Клаус
+Рашида Джонс;Mультфильм;https://www.kinopoisk.ru/film/957887/;Клаус
+Рашида Джонс;Приключение;https://www.kinopoisk.ru/film/957887/;Клаус
+Рашида Джонс;Семейный;https://www.kinopoisk.ru/film/957887/;Клаус
+Рашида Джонс;Комедия;https://www.kinopoisk.ru/film/957887/;Клаус
+Уилл Сассо;Mультфильм;https://www.kinopoisk.ru/film/957887/;Клаус
+Уилл Сассо;Приключение;https://www.kinopoisk.ru/film/957887/;Клаус
+Уилл Сассо;Семейный;https://www.kinopoisk.ru/film/957887/;Клаус
+Уилл Сассо;Комедия;https://www.kinopoisk.ru/film/957887/;Клаус
+Арнольд Шварценеггер;Семейный;https://www.kinopoisk.ru/film/6300/;Подарок на Рождество
