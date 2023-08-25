@@ -1,7 +1,7 @@
 from django import forms
 from django.core.exceptions import ValidationError
 
-from .models import Advertisement
+from advertisment.app_auth.models import Advertisement
 
 
 class AdvertisementForm(forms.ModelForm):

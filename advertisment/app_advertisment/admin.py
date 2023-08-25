@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Advertisement
+from advertisment.app_auth.models import Advertisement
 # Register your models here.
 
 class AdvertisementAdmin(admin.ModelAdmin):
