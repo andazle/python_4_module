@@ -3,8 +3,8 @@ from .models import Advertisement
 # Register your models here.
 
 class AdvertisementAdmin(admin.ModelAdmin):
-    list_display = ['id', 'title', 'description', 'price', 'created_data', 'auction']
-    list_filter =  ['auction', 'created_data']
+    list_display = ['id', 'title', 'description', 'price', 'created_at', 'auction', 'get_html_image']
+    list_filter =  ['auction', 'created_at']
     actions = ['make_auction_as_false', 'make_auction_as_true']
 
     @admin.action(description='Убрать возможность торга')
