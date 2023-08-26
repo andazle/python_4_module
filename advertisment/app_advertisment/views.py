@@ -1,5 +1,5 @@
 from django.shortcuts import render, redirect
-from advertisment.app_auth.models import Advertisement
+from .models import Advertisement
 from .forms import AdvertisementForm
 from django.urls import reverse, reverse_lazy
 from django.contrib.auth.decorators import login_required
